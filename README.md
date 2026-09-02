@@ -7,7 +7,7 @@
 *Building practical solutions, experimenting with ideas, and figuring out what actually works.*
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Kirti_Gupta-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/kirti-gupta25/)
-[![Email](https://img.shields.io/badge/Email-Contact-555555?style=flat-square&logo=gmail&logoColor=white)](mailto:kirtigupta0425@gmail.com)
+[![Email](https://img.shields.io/badge/Email-kirtigupta0425%40gmail.com-555555?style=flat-square&logo=gmail&logoColor=white)](mailto:kirtigupta0425@gmail.com)
 
 </div>
 
