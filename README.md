@@ -1,48 +1,141 @@
-# Hi, I'm Kirti Gupta 👋
+<div align="center">
 
-AI/ML · Data Analytics · Generative AI · Python · SQL
+# Kirti Gupta
 
-## 🔧 What I build
+### AI/ML · Data Analytics · Generative AI
 
-- **Entity Matching Benchmark** — Benchmark comparing exact, fuzzy, and embedding-based approaches for duplicate/entity resolution
-- **DeepErase** — Generative AI + Computer Vision system for automated logo detection and removal from video
-- **Power BI Analytics** — Interactive dashboards for analyzing sales, customers, orders, and business performance
-- **Computer Vision & ML Projects** — Machine learning and computer vision solutions using Python, OpenCV, TensorFlow and Scikit-learn
+*Building practical solutions, experimenting with ideas, and figuring out what actually works.*
 
-## 🛠️ Stack
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Kirti_Gupta-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/kirti-gupta25/)
+[![Email](https://img.shields.io/badge/Email-Contact-555555?style=flat-square&logo=gmail&logoColor=white)](mailto:kirtigupta0425@gmail.com)
 
-**Languages:** Python · SQL
+</div>
 
-**Data/Analytics:** Pandas · NumPy · Power BI · Excel
+---
 
-**AI/ML:** Scikit-learn · TensorFlow · Keras · Generative AI · LLMs · NLP
+## ✦ A little about me
 
-**Computer Vision:** OpenCV · YOLO · Image Processing
+I'm a Computer Science (AI & ML) graduate interested in **AI/ML, data analytics, Generative AI, and intelligent applications**.
 
-**AI/Applications:** RAG · Embeddings · Vector Databases · REST APIs
+I enjoy learning by building — taking an idea, experimenting with different approaches, and evaluating what actually works.
 
-**Tools:** Git · GitHub · ServiceNow · Akamai · DigiCert · Zscaler
+I also have experience in **enterprise IT and cybersecurity operations**, including certificate lifecycle management, Change Requests, operational tracking, and stakeholder coordination.
 
-## 📚 Currently
+---
 
-- 🔍 Building and experimenting with practical AI/ML and data projects
-- 📊 Strengthening Data Analytics & Business Analytics skills
-- ☁️ Learning Cloud, Networking & Cybersecurity fundamentals
-- 💻 Preparing for technical and analyst roles
+## 🚀 Things I've built
+
+<table>
+<tr>
+<td width="50%">
+
+### 🔍 Entity Matching Benchmark
+
+A benchmark comparing **exact, fuzzy, and embedding-based matching** for duplicate/entity resolution.
+
+**Python · NLP · Embeddings · Evaluation**
+
+[→ View project](https://github.com/kirti2500/entity-matching-benchmark)
+
+</td>
+
+<td width="50%">
+
+### 🎥 DeepErase
+
+Generative AI + Computer Vision approach for **automated logo detection and removal from video content**.
+
+**YOLO · LaMa · OpenCV · Generative AI**
+
+**IEEE Xplore · Co-author**
+
+</td>
+</tr>
+
+<tr>
+<td width="50%">
+
+### 📊 Business Intelligence
+
+Interactive Power BI dashboard analyzing **sales, customers, orders, delivery performance, and business KPIs**.
+
+**Power BI · SQL · Excel · Data Analysis**
+
+</td>
+
+<td width="50%">
+
+### 🤖 AI / ML Projects
+
+Machine learning and computer vision projects involving **prediction, classification, detection, image processing, and automation**.
+
+**Python · Scikit-learn · TensorFlow · OpenCV**
+
+</td>
+</tr>
+</table>
+
+---
+
+## 🧰 My toolkit
+
+**Programming**
+
+`Python` `SQL`
+
+**Data & Analytics**
+
+`Pandas` `NumPy` `Power BI` `Excel` `Statistics`
+
+**AI / ML**
+
+`Scikit-learn` `TensorFlow` `Keras` `Machine Learning` `Deep Learning`
+
+**Generative AI**
+
+`LLMs` `RAG` `Embeddings` `Vector Databases` `REST APIs`
+
+**Computer Vision**
+
+`OpenCV` `YOLO` `Image Processing` `Video Processing`
+
+**Tools**
+
+`Git` `GitHub` `ServiceNow` `Akamai` `DigiCert` `Zscaler`
+
+---
 
 ## 💼 Experience
 
-**Cloud & Cybersecurity Analyst Intern @ Future Lab Studio**  
-May 2026 – August 2026 · Gurugram
+**Cloud & Cybersecurity Analyst Intern**  
+*Future Lab Studio · May 2026 – August 2026 · Gurugram*
 
-Enterprise IT & cybersecurity operations · Certificate lifecycle management · Change Requests · ServiceNow · Akamai · DigiCert · Zscaler
+Enterprise IT & cybersecurity operations, certificate lifecycle management, Change Requests, operational tracking, stakeholder coordination, and enterprise tools.
 
-## 📄 Publication
+---
+
+## 📌 What I'm focused on
+
+**01** — Building stronger AI/ML & data projects  
+**02** — Improving Data & Business Analytics skills  
+**03** — Strengthening Cloud, Networking & Cybersecurity fundamentals  
+**04** — Finding opportunities where I can solve real-world problems with technology
+
+---
+
+## 📄 Research
 
 **DeepErase: A Generative AI Approach for Automated Logo Detection and Removal in Video Content**
 
-IEEE Xplore · 2025 · Co-author
+Published on **IEEE Xplore · 2025**  
+Co-author
 
-## 🔗 Connect
+---
+
+<div align="center">
+
+### Let's connect.
 
 [LinkedIn](https://www.linkedin.com/in/kirti-gupta25/) · [GitHub](https://github.com/kirti2500)
+
+</div>
